@@ -38,7 +38,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 # Running the sample
 
-## Step 1 : Starting docker container
+## Step 1 : Start Python
 
 ``` bash
 $ git clone 
@@ -49,15 +49,8 @@ On the console output copy the jupyter notebook url e.g. `http://localhost:8888/
 
 ## Step 2 : Execute Code 
 
-Open `world_obesity.ipynb` file and rull all cells.
+Open `CV19_Choropleth_with_gif_output.ipynb` file and rull all cells.
 
-## Step 3 : Start bokeh server
+## Step 3 : Browse the created gif
 
-In the browser using the jupyter notebook go to the `Terminal` 
-
-```
-bokeh serve --show world_obesity.ipynb
-```
-## Step 4 : Browse the interactive map
-
-The interactive map is rendered by bokeh server which can be browsed at `http://localhost:5006/`
+The gif can be found at `~/images/`
