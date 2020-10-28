@@ -13,23 +13,24 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 ```
 .
-├── Interactive-choropleth-map-obesity.mov
 ├── README.md
-├── bokeh-app
-│   ├── data
-│   │   ├── countries_110m
-│   │   │   ├── ne_110m_admin_0_countries.README.html
-│   │   │   ├── ne_110m_admin_0_countries.VERSION.txt
-│   │   │   ├── ne_110m_admin_0_countries.cpg
-│   │   │   ├── ne_110m_admin_0_countries.dbf
-│   │   │   ├── ne_110m_admin_0_countries.prj
-│   │   │   ├── ne_110m_admin_0_countries.shp
-│   │   │   └── ne_110m_admin_0_countries.shx
-│   │   └── obesity.csv
-│   └── world_obesity.ipynb
-├── docker
-│   └── Dockerfile
-└── docker-compose.yml
+├── world_obesity.ipynb
+├── data
+│   ├── images
+│   │   ├── DSFRS_Service_Area.cpg
+│   │   ├── DSFRS_Service_Area.dbf
+│   │   ├── DSFRS_Service_Area.prj
+│   │   ├── DSFRS_Service_Area.qpj
+│   │   ├── DSFRS_Service_Area.shp
+│   │   ├── DSFRS_Service_Area.shx
+│   │   ├── MSOAs.cpg
+│   │   ├── MSOAs.dbf
+│   │   ├── MSOAs.prj
+│   │   ├── MSOAs.shp
+│   │   ├── MSOAs.shx
+│   └── geospatial
+│   │    ├── 
+│   └── dsfrs_stations.csv
 ```
 
 # Running the sample
