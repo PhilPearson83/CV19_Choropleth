@@ -16,6 +16,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 ├── README.md
 ├── .gitignore
 ├── Licence
+├── requirements.txt
 ├── world_obesity.ipynb
 ├── data
 │   ├── geospatial
