@@ -33,8 +33,6 @@ prompt-toolkit==3.0.8
 Pygments==2.7.2
 pyproj==2.6.1.post1
 python-dateutil==2.8.1
-pytz==2020.1
-pywin32==228
 pyzmq==19.0.2
 requests==2.24.0
 selenium==3.141.0
