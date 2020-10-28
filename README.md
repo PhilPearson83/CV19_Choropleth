@@ -47,7 +47,6 @@ python -m venv env
 .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
-On the console output copy the jupyter notebook url e.g. `http://localhost:8888/token?=xxxx` and paste in your browser.
 
 ## Step 2 : Execute Code 
 
