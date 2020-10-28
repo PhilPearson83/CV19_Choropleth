@@ -17,7 +17,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 ├── .gitignore
 ├── Licence
 ├── requirements.txt
-├── world_obesity.ipynb
+├── CV19_Choropleth_with_gif_output.ipynb
 ├── data
 │   ├── geospatial
 │   │   ├── DSFRS_Service_Area.cpg
