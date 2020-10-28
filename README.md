@@ -1,10 +1,12 @@
-# A Guide to creating a Covid-19 Choropleth
+# Guide to creating a Covid-19 Choropleth
 
 The map utilises open source data avaialable from the UK Government or ONS. The map focues on the South West of England but can be adapted for the whole of the UK.
 
 [GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/about-data)
 
 [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
+
+![us](./example/img/positive_cases_wk_42.png)
 
 # Pre-requisites
 
@@ -53,4 +55,4 @@ Open `CV19_Choropleth_with_gif_output.ipynb` file and rull all cells.
 
 ## Step 3 : Browse the created gif
 
-The gif can be found at `~/images/`
+The gif can be found at `./images/`
