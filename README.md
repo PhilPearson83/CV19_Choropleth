@@ -40,12 +40,12 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 # Running the sample
 
-## Step 1 : Start Python
+## Step 1 : Start Python, create a virtual env and instal requirements
 
-``` bash
-$ git clone 
-$ cd /root-dir-of-the-repository
-$ docker-compose up
+``` python
+python -m venv env
+.\venv\Scripts\activate
+pip install -r requirements.txt
 ```
 On the console output copy the jupyter notebook url e.g. `http://localhost:8888/token?=xxxx` and paste in your browser.
 
