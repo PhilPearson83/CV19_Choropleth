@@ -32,7 +32,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 │   │   ├── MSOAs.shx
 │   └── geospatial
 │   │    ├── 
-    └── dsfrs_stations.csv
+│   └── dsfrs_stations.csv
 ```
 
 # Running the sample
