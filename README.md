@@ -18,7 +18,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 ├── Licence
 ├── world_obesity.ipynb
 ├── data
-│   ├── images
+│   ├── geospatial
 │   │   ├── DSFRS_Service_Area.cpg
 │   │   ├── DSFRS_Service_Area.dbf
 │   │   ├── DSFRS_Service_Area.prj
@@ -30,8 +30,8 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 │   │   ├── MSOAs.prj
 │   │   ├── MSOAs.shp
 │   │   ├── MSOAs.shx
-│   └── geospatial
-│   │    ├── 
+│   └── images
+│   │    ├── SampleMap.gif
 │   └── dsfrs_stations.csv
 ```
 
