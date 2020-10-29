@@ -36,11 +36,11 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 │   ├── positive_cases_wk_42.png
 │   └── SampleMap.gif
 ├── └── dsfrs_stations.csv
-├── README.md
 ├── .gitignore
+├── CV19_Choropleth_with_gif_output.ipynb
 ├── Licence
-├── requirements.txt
-└── CV19_Choropleth_with_gif_output.ipynb
+├── README.md
+└── requirements.txt
 ```
 
 # Running the sample
