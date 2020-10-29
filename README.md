@@ -8,7 +8,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
 
-![us](./example/img/positive_cases_wk_42.png)
+![us](./example/positive_cases_wk_42.png)
 
 # Pre-requisites
 
@@ -17,11 +17,6 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 ```
 .
-├── README.md
-├── .gitignore
-├── Licence
-├── requirements.txt
-├── CV19_Choropleth_with_gif_output.ipynb
 ├── data
 │   ├── geospatial
 │   │   ├── DSFRS_Service_Area.cpg
@@ -37,7 +32,15 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 │   │   ├── MSOAs.shx
 │   └── images
 │   │    ├── SampleMap.gif
-│   └── dsfrs_stations.csv
+├── example
+│   ├── positive_cases_wk_42.png
+│   └── SampleMap.gif
+├── └── dsfrs_stations.csv
+├── .gitignore
+├── CV19_Choropleth_with_gif_output.ipynb
+├── Licence
+├── README.md
+└── requirements.txt
 ```
 
 # Running the sample
