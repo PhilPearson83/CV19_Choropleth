@@ -8,7 +8,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
 
-![us](./example/img/positive_cases_wk_42.png)
+![us](./example/positive_cases_wk_42.png)
 
 # Pre-requisites
 
