@@ -37,7 +37,9 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 │   └── SampleMap.gif
 ├── └── dsfrs_stations.csv
 ├── .gitignore
+├── CV19_Choropleth.ipynb
 ├── CV19_Choropleth_with_gif_output.ipynb
+├── CV19_Choropleth_with_gif_output_alt.ipynb
 ├── Licence
 ├── README.md
 └── requirements.txt
