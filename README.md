@@ -47,7 +47,7 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 
 # Running the sample
 
-## Step 1 : Start Python, create a virtual env and instal requirements
+## Step 1 : Start Python, create a virtual environment and install requirements
 
 ``` python
 python -m venv env
