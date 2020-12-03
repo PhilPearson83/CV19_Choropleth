@@ -11,16 +11,14 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
 
 ![us](./example/positive_cases_wk_42.png)
+
 ---
 
 _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#installation)** | **[🚀 Quick Start](#-quick-start)** | **[Reference](#reference)** | **[FAQ](#faq)**
 
 ---
 
-# Pre-requisites
-
-
-# Directory Layout
+### Directory Layout
 
 ```
 .
