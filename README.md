@@ -3,8 +3,8 @@
 The map utilises open source data avaialable from the UK Government or ONS. The map focues on the South West of England but can be adapted for the whole of the UK.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/CV19_Choropleth/main?filepath=CV19_Choropleth.ipynb)
-<a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/density_based_spatial_clustering"></a>
-<a href="https://github.com/PhilPearson83/density_based_spatial_clustering"><img alt="PyPI" src="https://img.shields.io/badge/python-3.7+-blue.svg"></a>
+<a href="https://github.com/PhilPearson83/CV19_Choropleth/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/CV19_Choropleth"></a>
+<a href="https://github.com/PhilPearson83/CV19_Choropleth"><img alt="PyPI" src="https://img.shields.io/badge/python-3.7+-blue.svg"></a>
 
 [GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/about-data)
 
