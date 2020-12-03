@@ -6,7 +6,8 @@ The map utilises open source data avaialable from the UK Government or ONS. The 
 <a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/density_based_spatial_clustering"></a>
 <a href="https://github.com/PhilPearson83/density_based_spatial_clustering"><img alt="PyPI" src="https://img.shields.io/badge/python-3.7+-blue.svg"></a>
 
-[GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/about-data)         [ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
+[GOV.UK Coronavirus (COVID-19) in the UK](https://coronavirus.data.gov.uk/about-data)
+[ONS Open Geography Portal](https://geoportal.statistics.gov.uk/)
 
 ![us](./example/positive_cases_wk_42.png)
 ---
