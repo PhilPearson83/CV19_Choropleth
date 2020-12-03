@@ -50,7 +50,7 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 └── requirements.txt
 ```
 
-# Running the sample
+### Quick Start
 
 ## Step 1 : Start Python, create a virtual environment and install requirements
 
