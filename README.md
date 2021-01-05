@@ -51,16 +51,24 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ```
 ### Installation
 First clone the repository and navigate to the project's root directory:
+```bash
+git clone https://github.com/PhilPearson83/CV19_Choropleth.git
+# navigate to the downloaded (or git cloned) material
+cd ./CV19_Choropleth/
+# creating a virtual environment called "env"
+python -m venv env
+# activating the environment
+source env/Scripts/activate
+```
+This project is written in [`Python`](https://www.python.org/) and depends on a number packages to be installed. You can install these packages by running the following command in the project's root directory:
+
+```bash
+pip install requirements.txt 
+```
 
 ### Quick Start
 
-## Step 1 : Start Python, create a virtual environment and install requirements
-
-``` python
-python -m venv env
-.\venv\Scripts\activate
-pip install -r requirements.txt
-```
+## Step 1 : Start Jupyter Notebook
 
 ## Step 2 : Execute Code 
 
