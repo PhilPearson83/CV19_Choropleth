@@ -77,3 +77,7 @@ Open `CV19_Choropleth_with_gif_output.ipynb` file and rull all cells.
 ## Step 3 : Browse the created gif
 
 The gif can be found at `./images/`
+
+### Reference
+
+### FAQ
