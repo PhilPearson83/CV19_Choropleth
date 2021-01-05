@@ -49,6 +49,8 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ├── README.md
 └── requirements.txt
 ```
+### Installation
+First clone the repository and navigate to the project's root directory:
 
 ### Quick Start
 
