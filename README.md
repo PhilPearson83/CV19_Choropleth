@@ -1,6 +1,6 @@
 # Guide to creating a Covid-19 Choropleth using Folium
 
-The map utilises open source data avaialable from the UK Government or ONS. The map focues on the South West of England but can be adapted for the whole of the UK.
+The map utilises open source data avaialable from the UK Government and Office for National Statistics (ONS). The map focues on the South West of England but can be adapted for any part of the UK.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/CV19_Choropleth/main?filepath=CV19_Choropleth.ipynb)
 <a href="https://github.com/PhilPearson83/CV19_Choropleth/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/CV19_Choropleth"></a>
