@@ -66,7 +66,7 @@ This project is written in [`Python`](https://www.python.org/) and depends on a 
 pip install requirements.txt 
 ```
 
-### Quick Start
+### 🚀 Quick Start
 
 ## Step 1 : Start Jupyter Notebook
 
