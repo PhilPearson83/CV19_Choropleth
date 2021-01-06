@@ -69,7 +69,9 @@ pip install requirements.txt
 ### 🚀 Quick Start
 
 ## Step 1 : Start Jupyter Notebook
-
+```bash
+jupyter notebook
+```
 ## Step 2 : Execute Code 
 
 Open `CV19_Choropleth_with_gif_output.ipynb` file and rull all cells.
